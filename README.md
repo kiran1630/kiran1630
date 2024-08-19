@@ -49,7 +49,6 @@
 ###
 
 <p align="left"></p>
-<div class='center'>
+
   ![LeetCode Stats](https://leetcard.jacoblin.cool/KIRANKUMAR_S?theme=dark&font=Marcellus%20SC)
-</div>
- 
+
